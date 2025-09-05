@@ -17,7 +17,7 @@ The study followed **PRISMA 2020 guidelines** to ensure transparency, reproducib
 ## 📊 Data Availability
 The dataset includes:
 - Consolidated database of search results (`tb_bases_consolidadas_2025_09_01_FINAL.xlsx`);
-- Full search strings adapted for each database (Scopus, Web of Science, PsycINFO, ERIC, PubMed);
+- Full search strings adapted for each database (Scopus, Web of Science, PsycINFO);
 - PRISMA 2020 flow diagram counts and checklist;
 - Data extraction form (Excel).
 
