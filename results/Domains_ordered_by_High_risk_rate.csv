@@ -1,0 +1,9 @@
+,High_count,High_rate,Some_concerns_rate
+RoB_EthicsPrivacy,8,0.03,0.407
+RoB_Design,5,0.019,0.274
+RoB_Confounding,5,0.019,0.719
+RoB_Sampling,4,0.015,0.529
+RoB_OutcomeValidity,4,0.015,0.65
+RoB_AI_Methodology,1,0.004,0.582
+RoB_MissingData,1,0.004,0.065
+RoB_SelectiveReporting,0,0.0,0.156
